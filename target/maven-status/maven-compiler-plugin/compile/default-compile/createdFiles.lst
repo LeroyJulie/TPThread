@@ -1,0 +1,14 @@
+bandeau\Blink.class
+bandeau\FontEnumerator.class
+bandeau\RandomEffect.class
+bandeau\RandomSequenceGenerator.class
+bandeau\Rotate.class
+bandeau\TeleType.class
+bandeau\Effect.class
+bandeau\Scenario.class
+bandeau\ExampleScenario.class
+bandeau\ExerciceAvecThreads.class
+bandeau\Rainbow.class
+bandeau\ScenarioElement.class
+bandeau\ExempleDUtilisation.class
+bandeau\Zoom.class
